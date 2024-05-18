@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(43, 43, 43);
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+.ing,
+.ste {
+    font-size: large;
+    font-weight: 800;
+}
+.ing{
+    color: blue ;
+}
+.ste{
+    color: red;
+}
